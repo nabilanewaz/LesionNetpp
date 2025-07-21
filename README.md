@@ -1,2 +1,2 @@
-# BodyTune
+# LesionNet++
 ML Project
